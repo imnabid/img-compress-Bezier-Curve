@@ -16,7 +16,7 @@ The compression works by dividing the image into blocks of 25 pixels and fitting
 
 - **Curve Fitting:** For each block, a cubic Bézier curve is calculated by fitting 4 control points.
  <div align = "center" >
-  <img width = "500" src="demo/9.png"/>
+  <img width = "500" src="demo/8.png"/>
   </div>
 
 - **Compression:** Only the 4 control points (P₀, P₁, P₂, and P₃) are stored instead of the pixel values.
