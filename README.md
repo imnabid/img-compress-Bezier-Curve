@@ -37,9 +37,9 @@ The compression works by dividing the image into blocks of 25 pixels and fitting
   </div>
 
   ## Screenshots
-<img width = "500" src="demo/4.png"/>
-<img width = "500" src="demo/5.png"/>
-<img width = "500" src="demo/6.png"/>
+<img width = "800" src="demo/4.png"/>
+<img width = "800" src="demo/5.png"/>
+<img width = "800" src="demo/6.png"/>
 
   
 
